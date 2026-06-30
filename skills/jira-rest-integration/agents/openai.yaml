@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jira REST Integration"
+  short_description: "Integração Jira Cloud via REST API."
+  default_prompt: "Use Jira REST Integration para buscar, analisar, comentar, criar, editar, vincular ou transicionar issues no Jira Cloud usando apenas REST API e o arquivo .jira-integration do projeto."
